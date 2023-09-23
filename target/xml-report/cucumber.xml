@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="7.679" tests="1" skipped="0" failures="0" errors="0">
+<testcase classname="As a visitor, when I enter the product I want into the search bar and perform a search, I should be able to confirm that the results include the product I entered." name="TC_01 &gt;&gt;&gt; After entering a product into the search bar, I should be able to verify that the search results contain the entered product" time="7.537">
+<system-out><![CDATA[
+* Open the browser and go to "amazonUrl"....................................passed
+* Verify that the search bar is visible and accessible......................passed
+* Enter "iPhone" into the search bar and perform the search.................passed
+* It is confirmed that the search results contain "iPhone"..................passed
+* Close the browser.........................................................passed
+]]></system-out>
+</testcase>
+</testsuite>
